@@ -153,6 +153,10 @@ input, button {
   bottom: ;
 }
 
+hover:#submit {
+  background: gray;
+}
+
 /** Smaller screens **/
 @media (max-width: 700px ) {
   #header-img {
