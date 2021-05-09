@@ -153,7 +153,7 @@ input, button {
   bottom: ;
 }
 
-hover:#submit {
+#submit:hover {
   background: gray;
 }
 
