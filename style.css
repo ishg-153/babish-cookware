@@ -154,7 +154,7 @@ input, button {
 }
 
 #submit:hover {
-  background: gray;
+  background: #484848;
 }
 
 /** Smaller screens **/
